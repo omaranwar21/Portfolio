@@ -1187,15 +1187,6 @@ section .container {
   }
 }
 
-.credits a {
-  color: #18d26e;
-  transition: 0.3s;
-}
-
-.credits a:hover {
-  color: #fff;
-}
-
 #header .container{
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
